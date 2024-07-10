@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Watermelon {
+public class problems {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int weight = input.nextInt();
