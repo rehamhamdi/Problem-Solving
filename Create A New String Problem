@@ -3,11 +3,9 @@ import java.util.Scanner;
 public class problems {
 
     public static void main(String[] args) {
-        System.out.println("input");
         Scanner input = new Scanner(System.in);
         String S = input.next();
         String T = input.next();
-        System.out.println("output");
         System.out.print(S.length() + " ");
         System.out.println(T.length());
         System.out.print(S + " ");
