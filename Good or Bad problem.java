@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
- 
+
 public class problems {
  
     public static void main(String[] args) {
